@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**ahmedalam98/ahmedalam98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> , I'm Ahmed  </h3>
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=33E612&center=true&vCenter=true&width=435&lines=Front+End+Developer;Electrical+Engineer;Passionate+learner)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently seeking for my first job in software development
+<br>
+🌱 I’m currently learning everything 🤓
+<br>
+⚡ I'm a weekend gamer
+
+<div align="center">
+
+### My Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,jest)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind,mongodb,git)](https://skillicons.dev)
+
+</div>
