@@ -20,3 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind,mongodb,git)](https://skillicons.dev)
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
