@@ -22,5 +22,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003bff,100:ffff1c&height=85&section=footer"/>
 </p>
