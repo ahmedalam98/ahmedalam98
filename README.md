@@ -21,7 +21,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,jest,git)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,mongodb,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,tailwind,materialui)](https://skillicons.dev)
 
 </div>
 
