@@ -9,7 +9,7 @@
    
 </div>
 
-🔭 I’m currently seeking for my first job in software development
+🔭 I’m currently trainee @ Information technology institute scholarship
 <br>
 🌱 I’m currently learning everything 🤓
 <br>
