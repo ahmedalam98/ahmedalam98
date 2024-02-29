@@ -21,9 +21,9 @@
 
 ## My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,sass,jest,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,jest,git,tailwind)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,vue,nodejs,mongodb,tailwind,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,angular,vue,nodejs,mongodb,materialui)](https://skillicons.dev)
 
 </div>
 
