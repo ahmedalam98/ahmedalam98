@@ -7,3 +7,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.alameldeen.me@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedalam98/)
 <!--[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=red)](https://www.ahmedalameldeen.me/)-->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedalam98&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedalam98" /> </p>
