@@ -12,7 +12,7 @@
    
 </div>
 
-🚀 I’m currently a software developer @ [_VOIS](https://www.vodafone.com/careers/professional-career-areas/shared-services)
+🚀 I’m currently working at [_VOIS](https://www.vodafone.com/careers/professional-career-areas/shared-services)
 <br>
 🌱 I’m currently learning everything 🤓
 <br>
